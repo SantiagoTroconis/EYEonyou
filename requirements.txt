@@ -1,0 +1,4 @@
+# Requiere Python 3.8 - 3.11 (mediapipe 0.10.9 no tiene versiones para Python más nuevos)
+mediapipe==0.10.9
+opencv-contrib-python==5.0.0.93
+numpy==2.4.6
